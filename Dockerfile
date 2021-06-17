@@ -1,2 +1,2 @@
-FROM website-templates/above-educational-bootstrap-responsive-template
+FROM hshar/webapp
 ADD . /var/www/html/
